@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InThisEconomy</string>
+    <string name="title">Mortgage Calculator</string>
+
+    <!-- Main Activity -->
+    <string name="tvPrincipal">Principal:</string>
+    <string name="tvAmortization">Amortization:</string>
+    <string name="tvInterestRate">Interest Rate:</string>
+    <string name="btnCalculate">Calculate Payment</string>
+    <string name="tvError">Please provide a valid Principal, Interest Rate and Amortization.</string>
+
+    <!-- Result Activity -->
+    <string name="tvEMILabel">MONTHLY EMI</string>
+    <string name="btnBack">Back</string>
+
+</resources>
